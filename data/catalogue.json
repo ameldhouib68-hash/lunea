@@ -1,0 +1,181 @@
+[
+  {
+    "reference": "LUN-001",
+    "name": "Aube",
+    "price_ttc_eur": 89,
+    "description": "Une lumière ambrée, un volume délicat, une présence chaleureuse. Aube habille une table de chevet de sa céramique mate et accompagne les moments calmes de la soirée.",
+    "features": {
+      "Matière": "Céramique",
+      "Température de couleur": "1800 K",
+      "Autonomie": "Jusqu’à 40 h à intensité minimale",
+      "Alimentation": "USB-C",
+      "Dimensions hauteur × largeur": "18 × 14 cm",
+      "Usage": "Intérieur, pièce sèche",
+      "Intensité": "Réglable"
+    },
+    "variants": [
+      {
+        "color": "Sable",
+        "stock_demo": 12,
+        "reference": "LUN-001-1"
+      },
+      {
+        "color": "Terracotta",
+        "stock_demo": 15,
+        "reference": "LUN-001-2"
+      },
+      {
+        "color": "Chocolat",
+        "stock_demo": 18,
+        "reference": "LUN-001-3"
+      }
+    ],
+    "delivery": "Livraison fictive en France métropolitaine sous 3 à 5 jours ouvrés. Frais de démonstration : 4,90 €, offerts dès 100 €.",
+    "notice": "Produit fictif de projet universitaire. Caractéristiques et stocks de démonstration, non certifiés. Aucun achat réel."
+  },
+  {
+    "reference": "LUN-002",
+    "name": "Halo",
+    "price_ttc_eur": 69,
+    "description": "Avec ses lignes arrondies, Halo trouve naturellement sa place près du lit. Son intensité réglable permet de passer d’une ambiance accueillante à une lueur discrète.",
+    "features": {
+      "Matière": "ABS et diffuseur opalin",
+      "Température de couleur": "2700 K",
+      "Autonomie": "Jusqu’à 20 h à intensité minimale",
+      "Alimentation": "USB-C",
+      "Dimensions hauteur × largeur": "16 × 13 cm",
+      "Usage": "Intérieur, pièce sèche",
+      "Intensité": "Réglable"
+    },
+    "variants": [
+      {
+        "color": "Ivoire",
+        "stock_demo": 12,
+        "reference": "LUN-002-1"
+      },
+      {
+        "color": "Beige",
+        "stock_demo": 15,
+        "reference": "LUN-002-2"
+      }
+    ],
+    "delivery": "Livraison fictive en France métropolitaine sous 3 à 5 jours ouvrés. Frais de démonstration : 4,90 €, offerts dès 100 €.",
+    "notice": "Produit fictif de projet universitaire. Caractéristiques et stocks de démonstration, non certifiés. Aucun achat réel."
+  },
+  {
+    "reference": "LUN-003",
+    "name": "Sora",
+    "price_ttc_eur": 79,
+    "description": "Inspirée des formes naturelles, Sora apporte une touche de douceur au quotidien. Sa céramique et ses trois niveaux de lumière composent une atmosphère calme, du salon à la chambre.",
+    "features": {
+      "Matière": "Céramique",
+      "Température de couleur": "2200 K",
+      "Autonomie": "Jusqu’à 18 h à intensité minimale",
+      "Alimentation": "USB-C",
+      "Dimensions hauteur × largeur": "20 × 12 cm",
+      "Usage": "Intérieur, pièce sèche",
+      "Intensité": "3 niveaux"
+    },
+    "variants": [
+      {
+        "color": "Vert sauge",
+        "stock_demo": 12,
+        "reference": "LUN-003-1"
+      },
+      {
+        "color": "Blanc cassé",
+        "stock_demo": 15,
+        "reference": "LUN-003-2"
+      }
+    ],
+    "delivery": "Livraison fictive en France métropolitaine sous 3 à 5 jours ouvrés. Frais de démonstration : 4,90 €, offerts dès 100 €.",
+    "notice": "Produit fictif de projet universitaire. Caractéristiques et stocks de démonstration, non certifiés. Aucun achat réel."
+  },
+  {
+    "reference": "LUN-004",
+    "name": "Nacre",
+    "price_ttc_eur": 59,
+    "description": "Petite par sa taille, précieuse par sa présence : Nacre éclaire une étagère ou un coin de chambre d’une lueur délicate. Son diffuseur adoucit la lumière pour une décoration tout en légèreté.",
+    "features": {
+      "Matière": "Verre opalin et base ABS",
+      "Température de couleur": "2700 K",
+      "Autonomie": "Jusqu’à 12 h à intensité minimale",
+      "Alimentation": "USB-C",
+      "Dimensions hauteur × largeur": "12 × 10 cm",
+      "Usage": "Intérieur, pièce sèche",
+      "Intensité": "Réglable"
+    },
+    "variants": [
+      {
+        "color": "Ivoire",
+        "stock_demo": 12,
+        "reference": "LUN-004-1"
+      },
+      {
+        "color": "Sable",
+        "stock_demo": 15,
+        "reference": "LUN-004-2"
+      }
+    ],
+    "delivery": "Livraison fictive en France métropolitaine sous 3 à 5 jours ouvrés. Frais de démonstration : 4,90 €, offerts dès 100 €.",
+    "notice": "Produit fictif de projet universitaire. Caractéristiques et stocks de démonstration, non certifiés. Aucun achat réel."
+  },
+  {
+    "reference": "LUN-005",
+    "name": "Éclipse",
+    "price_ttc_eur": 99,
+    "description": "Éclipse se distingue par sa silhouette sculpturale. Sa lumière indirecte souligne ses courbes et donne du caractère à une console ou à une table basse, sans dominer la pièce.",
+    "features": {
+      "Matière": "Aluminium et diffuseur acrylique",
+      "Température de couleur": "2200 K",
+      "Autonomie": "Sur alimentation USB-C, sans batterie",
+      "Alimentation": "USB-C",
+      "Dimensions hauteur × largeur": "26 × 20 cm",
+      "Usage": "Intérieur, pièce sèche",
+      "Intensité": "Réglable"
+    },
+    "variants": [
+      {
+        "color": "Chocolat",
+        "stock_demo": 12,
+        "reference": "LUN-005-1"
+      },
+      {
+        "color": "Sable",
+        "stock_demo": 15,
+        "reference": "LUN-005-2"
+      }
+    ],
+    "delivery": "Livraison fictive en France métropolitaine sous 3 à 5 jours ouvrés. Frais de démonstration : 4,90 €, offerts dès 100 €.",
+    "notice": "Produit fictif de projet universitaire. Caractéristiques et stocks de démonstration, non certifiés. Aucun achat réel."
+  },
+  {
+    "reference": "LUN-006",
+    "name": "Brume",
+    "price_ttc_eur": 49,
+    "description": "Compacte et facile à déplacer, Brume accompagne vos pauses du soir. Son dessin épuré et sa lumière diffuse en font un petit objet familier, à poser là où vous aimez vous détendre.",
+    "features": {
+      "Matière": "ABS mat",
+      "Température de couleur": "2700 K",
+      "Autonomie": "Jusqu’à 15 h à intensité minimale",
+      "Alimentation": "USB-C",
+      "Dimensions hauteur × largeur": "11 × 9 cm",
+      "Usage": "Intérieur, pièce sèche",
+      "Intensité": "Réglable"
+    },
+    "variants": [
+      {
+        "color": "Vert sauge",
+        "stock_demo": 12,
+        "reference": "LUN-006-1"
+      },
+      {
+        "color": "Ivoire",
+        "stock_demo": 15,
+        "reference": "LUN-006-2"
+      }
+    ],
+    "delivery": "Livraison fictive en France métropolitaine sous 3 à 5 jours ouvrés. Frais de démonstration : 4,90 €, offerts dès 100 €.",
+    "notice": "Produit fictif de projet universitaire. Caractéristiques et stocks de démonstration, non certifiés. Aucun achat réel."
+  }
+]
